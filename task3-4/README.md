@@ -19,5 +19,7 @@ The 'Date' column is parsed to extract the 'Month', 'Day', and 'Year' components
 A new column 'Depth_Category' is created to categorize earthquake depths into three categories: Shallow, Intermediate, and Deep.
 
 #3. Data Reshaping
+
 #4. Charts
+
 #5. Date Functions
